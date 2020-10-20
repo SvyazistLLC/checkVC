@@ -1,0 +1,12 @@
+{
+  "name": "smg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "checkVC": "./bin/index.js"
+  },
+  "dependencies": {
+    "net-snmp": "^2.9.5"
+  }
+}
